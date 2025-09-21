@@ -1,2 +1,2 @@
 # robots
-unlicenced pixel art robots
+unlicensed pixel art robots
